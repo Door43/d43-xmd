@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmd:home|Door43 (xmd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmd|d43-xmd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmd/archive/master.zip|d43-xmd.zip]]
+
+**Recent Changes**
+{{changes>ns = xmd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmd|Ethnologue data]]
+
